@@ -1,0 +1,5 @@
+scikit-learn
+jupyter
+seaborn
+nb_black
+pefile
