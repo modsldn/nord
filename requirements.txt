@@ -3,3 +3,4 @@ jupyter
 seaborn
 nb_black
 pefile
+bs4
