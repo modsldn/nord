@@ -1,7 +1,7 @@
 # References
 - For feature extraction I used  `https://github.com/SuperCowPowers/data_hacking/blob/master/pefile_classification/pe_features.py`
 - For modelling reference using tree models with Tensorflow I used `https://www.tensorflow.org/decision_forests/tutorials/beginner_colab`
-- for additional files check repo 
+- for additional files check re
     - `pefile_attributes.py`. Update it to work with python 3.10. 
     - images that are used in the notebook. 
     - `downloading_files.ipynb`. it download the files to the local machine. 
