@@ -4,3 +4,4 @@ seaborn
 nb_black
 pefile
 bs4
+ssdeep
