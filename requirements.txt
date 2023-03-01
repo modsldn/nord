@@ -5,3 +5,4 @@ nb_black
 pefile
 bs4
 ssdeep
+tensorflow-decision-forests

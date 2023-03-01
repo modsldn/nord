@@ -2,10 +2,10 @@
 - For feature extraction I used  `https://github.com/SuperCowPowers/data_hacking/blob/master/pefile_classification/pe_features.py`
 - For modelling reference using tree models with Tensorflow I used `https://www.tensorflow.org/decision_forests/tutorials/beginner_colab`
 - for additional files check repo 
-    - `pefile_attributes.py` that works wiht python 3.10
+    - `pefile_attributes.py`. Update it to work with python 3.10. 
     - images that are used in the notebook. 
-    - notebook that download the files to the local machine. 
-    - notebook that builds sklearn xgboost model. 
+    - `downloading_files.ipynb`. it download the files to the local machine. 
+    - `sklearn_xgboost_model_for_exe_files.ipynb` Used this notebook to review features and try xgboost models.  
     
     
 # Baseline Model performance
